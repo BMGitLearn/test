@@ -4,3 +4,5 @@ Hello World by foo
 Another change by foo
 
 Yet another change by foo
+
+git diff test by foo
